@@ -14,7 +14,8 @@
         "psr-4": {
             "Sort\\": "sorting",
             "Recursion\\": "recursion",
-            "Binary_search\\": "binary_search"
+            "Binary_search\\": "binary_search",
+            "Stack\\": "stack"
         }
     },
     "require-dev": {
